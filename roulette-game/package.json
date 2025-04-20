@@ -1,0 +1,16 @@
+{
+  "name": "roulette-game",
+  "version": "1.0.0",
+  "description": "Um jogo de roleta utilizando HTML, CSS e JavaScript com animações e simulação física.",
+  "main": "src/js/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.0.0"
+  },
+  "devDependencies": {},
+  "author": "Seu Nome",
+  "license": "MIT"
+}

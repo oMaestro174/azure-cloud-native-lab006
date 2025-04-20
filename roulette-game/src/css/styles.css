@@ -1,0 +1,21 @@
+/* Este arquivo contém os estilos para os elementos HTML, incluindo o canvas e outros componentes da interface. */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background: #1a1a1a;
+}
+
+canvas {
+    border: 2px solid #333;
+    background-color: #fff;
+}
+
+#rouletteCanvas {
+    border: 2px solid #333;
+    border-radius: 50%;
+    background: #006400;
+}
